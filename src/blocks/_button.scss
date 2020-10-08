@@ -1,0 +1,17 @@
+.button {
+    width: 140px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: black;
+    border: 2px solid  #ffffff;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    &_yellow {
+        background-color: #fdce16;
+        border: none;
+        color: black;
+    }
+}
